@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+convergence_BPP_*.csv
+resumen_BPP_*.csv
+.ipynb_checkpoints/
+.DS_Store
+venv/
